@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ishita Mukherjee</h1>
 <h3 align="center">A passionate Web Developer</h3>
 
-
-- 📫 How to reach me: **ishitam299@gmail.com**
-
 ---
 
 ### 🧰 Languages and Tools:

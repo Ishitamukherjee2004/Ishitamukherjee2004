@@ -21,7 +21,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ishitamukherjee2004&show_icons=true&theme=tokyonight" alt="Ishitamukherjee2004" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishitamukherjee2004&theme=tokyonight" alt="Ishitamukherjee2004" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Ishitamukherjee2004&theme=tokyonight" alt="Ishitamukherjee2004" />
+
 </p>
 
 ---

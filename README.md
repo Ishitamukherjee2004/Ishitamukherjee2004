@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ishita Mukherjee</h1>
-<h3 align="center">A passionate Web Developer</h3>
+<img src="https://readme-typing-svg.herokuapp.com?color=%23414141&size=250&duration=5000&center=true&width=5000&height=500&lines=Hello+<Everyone/>!;I'm+Ishita" />
+<h3 align="center">A passionate Web Developer from India</h3>
+
+
 
 ---
 

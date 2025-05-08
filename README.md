@@ -1,3 +1,10 @@
+<div id="header">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50%"/>
+</div>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ishitamukherjee2004.Ishitamukherjee2004" />
+
+
+
 <img src="https://readme-typing-svg.herokuapp.com?color=%23414141&size=250&duration=5000&center=true&width=5000&height=500&lines=Hello+<Everyone/>!;I'm+Ishita" />
 <h3 align="center">A passionate Web Developer from India</h3>
 
